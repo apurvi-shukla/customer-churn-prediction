@@ -161,4 +161,10 @@ GitHub: [apurvi-shukla](https://github.com/apurvi-shukla)
 
 *This project was developed for learning and demonstrating a practical machine learning workflow.*
 
+# Customer Churn Prediction Using Machine Learning
+
+ **Live Demo:** [Try the Customer Churn Prediction App](https://customer-churn-prediction-apurvi.streamlit.app)
+
+
+
 
